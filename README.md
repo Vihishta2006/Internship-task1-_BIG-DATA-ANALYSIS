@@ -32,7 +32,7 @@ This task is applicable in many real-world scenarios such as business analytics,
 
 In simple words, this task demonstrates how raw data can be converted into useful information using tools like Spark and Python. It shows how data can be processed, analyzed, and presented visually to make it easy for anyone to understand. Overall, it is an important step in learning data science and big data technologies.
 
-*OUTPUT
+*OUTPUT*
 
 <img width="640" height="480" alt="Image" src="https://github.com/user-attachments/assets/61ca7e96-82be-4536-934d-c7d1b67c2250" />
 <img width="640" height="480" alt="Image" src="https://github.com/user-attachments/assets/fe884b54-a0e1-4126-9a60-9dee17bc927b" />
