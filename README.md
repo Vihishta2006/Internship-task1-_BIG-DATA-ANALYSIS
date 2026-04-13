@@ -31,3 +31,15 @@ Additionally, a heatmap is created to show the correlation between numerical val
 This task is applicable in many real-world scenarios such as business analytics, sales forecasting, marketing analysis, and decision-making. Companies use similar techniques to understand customer behavior, improve sales strategies, and make data-driven decisions.
 
 In simple words, this task demonstrates how raw data can be converted into useful information using tools like Spark and Python. It shows how data can be processed, analyzed, and presented visually to make it easy for anyone to understand. Overall, it is an important step in learning data science and big data technologies.
+
+*OUTPUT
+
+<img width="640" height="480" alt="Image" src="https://github.com/user-attachments/assets/61ca7e96-82be-4536-934d-c7d1b67c2250" />
+<img width="640" height="480" alt="Image" src="https://github.com/user-attachments/assets/fe884b54-a0e1-4126-9a60-9dee17bc927b" />
+<img width="640" height="480" alt="Image" src="https://github.com/user-attachments/assets/329a7fff-c53a-4b20-a1ba-051f7e5da80f" />
+<img width="640" height="480" alt="Image" src="https://github.com/user-attachments/assets/945f6b00-3bef-4a3d-af45-0b3d0023d483" />
+<img width="640" height="480" alt="Image" src="https://github.com/user-attachments/assets/4208b3b7-1380-4de3-a097-63e1490befac" />
+<img width="640" height="480" alt="Image" src="https://github.com/user-attachments/assets/ed53a861-d17e-418d-8eec-297e3ce8871e" />
+<img width="640" height="480" alt="Image" src="https://github.com/user-attachments/assets/85f70091-002b-4932-bf71-e8000667ad9f" />
+<img width="640" height="480" alt="Image" src="https://github.com/user-attachments/assets/a1c74e48-2fb2-46bb-95b0-fc0bdf6d3153" />
+
